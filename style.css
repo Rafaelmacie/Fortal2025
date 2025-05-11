@@ -46,10 +46,11 @@ nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    margin-bottom: 30px;
 }
 
 .secao-sobre figure {
+    
     width: 100%;
     aspect-ratio: 16 / 9;
     overflow: hidden;
@@ -62,40 +63,108 @@ nav {
     object-fit: cover;
     display: block;
 }
+
 .secao-sobre p {
     color: #222;
 }
+
 .programacao {
     width: 100%;
     display: flex;
     flex-direction:column;
     align-items: left;
 }
-.formulario {
+
+#sub-container{
+    display: flex;
     width: 100%;
-    margin-bottom: 30px;
+}
+
+#form-container{
+    flex: 1;
+    background-color: #ff6a00;
+    color: #ffffff;
+}
+
+#form-inner{
+    margin: 3rem;
+    padding: 3rem;
+    border: 2px solid #aaa;
+    text-align: center;
     display: flex;
     flex-direction: column;
-    align-items: left;
-    justify-content: left;
+    align-items: center;
+  
 }
-.formulario input:first-of-type {
-    margin-top: 0;
+
+#form-inner h3{
+    font-size: 2rem;
+    margin-bottom: 1rem;
 }
-.formulario input{
-    padding: 4px;
-    margin-top: 10px;
-    border: 1px solid #C2C2C2;
-    border-radius: 4px;
-    width: 20rem;
+
+#form-inner p{
+    
+    margin-bottom: 1rem;
 }
-#botao{
-    color: #FFFFFF;
-    height: 3em;
-    font-weight: 600;
-    background-color:#ff6a00 ;
-    border-radius: 8px;
+
+#register-form{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
 }
+
+#name-container{
+    display: flex;
+    gap: 0.5rem;
+}
+
+#register-form input{
+    padding: 0.8rem 0.6rem;
+    border: none;
+    border-radius: 3px;
+}
+
+#email{
+    min-width: 100%;
+}
+
+#register-form input[type="submit"]{
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #aaa;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.4s;
+
+}
+
+#register-form input[type="submit"]:hover{
+  background-color: #fff;
+  color: #272932;
+    
+}
+
+#benefits{
+    text-align: left;
+    align-self: start;
+}
+
+#benefits h4{
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+#benefits ul{
+    list-style-position: inside;
+}
+
+#benefits li{
+    margin-bottom: 0.5rem;
+}
+
+
 
 
 
@@ -104,8 +173,10 @@ nav {
 
 .secao-galeria{
     width: 100%;
+    margin-top: 30px;
 }
 .galeria {
+    margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
