@@ -12,6 +12,11 @@ body {
     flex-direction: column;
     align-items: center;
     background: #f8f9fa;
+    background-image: url("./images/fundo.png");
+    backdrop-filter: blur(10px);
+    background-size: cover;
+    back-position: center;
+    background-repeat: no-repeat;
 }
 main {
     flex-direction: column;
@@ -28,6 +33,7 @@ header {
     justify-content: center;
     border-bottom: 1px solid #CCCCCC;
     box-shadow: 1px 1px 10px 0px;
+    background-color: #FFF;
 }
 nav {
     display: flex;
@@ -44,7 +50,6 @@ nav {
 .secao-sobre {
     width: 100%;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     margin-bottom: 30px;
 }
@@ -52,6 +57,7 @@ nav {
 .secao-sobre figure {
     
     width: 100%;
+    max-width: 1100px;
     aspect-ratio: 16 / 9;
     overflow: hidden;
     border-radius: 10px;
@@ -73,17 +79,28 @@ nav {
     display: flex;
     flex-direction:column;
     align-items: left;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 20px;
 }
 
 #sub-container{
     display: flex;
     width: 100%;
+    flex-direction: column;
+    align-items:center;
 }
 
 #form-container{
     flex: 1;
     background-color: #ff6a00;
     color: #ffffff;
+    width: 60vw;
+    max-width: 600px;
+    min-width: 400px;
+    border-radius:10px
 }
 
 #form-inner{
@@ -123,6 +140,7 @@ nav {
     padding: 0.8rem 0.6rem;
     border: none;
     border-radius: 3px;
+    width: 100%;
 }
 
 #email{
@@ -181,6 +199,7 @@ nav {
     flex-wrap: wrap;
     gap: 1rem;
     justify-content: center;
+    border-top: 1px solid #CCC;
 }
 
 .galeria figure {
