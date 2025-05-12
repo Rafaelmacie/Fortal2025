@@ -5,7 +5,7 @@ Bem-vindo ao repositório do nosso projeto frontend! 🚀 Este projeto foi desen
 ## 🎨 Tecnologias Utilizadas
 - **HTML5** 🏗️ - Estrutura semântica e acessível
 - **CSS3** 🎨 - Estilização moderna e responsiva
-
+- **Git** 🔧 – Versionamento de código e colaboração em equipe
 
 ## 🔥 Recursos Implementados
 ✅ Layout responsivo  
@@ -20,5 +20,4 @@ Bem-vindo ao repositório do nosso projeto frontend! 🚀 Este projeto foi desen
 
 ## 📝 Autores
 Lucas Santos 📧 lucasdsantos2201@gmail.com 🔗 (https://www.linkedin.com/in/lucas-santos-a620011b9/)
-
-
+Rafael Maciel 📧 rafaelmn934@gmail.com 🔗 (https://github.com/Rafaelmacie)
