@@ -19,5 +19,6 @@ Bem-vindo ao repositório do nosso projeto frontend! 🚀 Este projeto foi desen
 2. Abra o arquivo index.html no navegador.
 
 ## 📝 Autores
-Lucas Santos 📧 lucasdsantos2201@gmail.com 🔗 (https://www.linkedin.com/in/lucas-santos-a620011b9/)
+Lucas Santos 📧 lucasdsantos2201@gmail.com 🔗 (https://www.linkedin.com/in/lucas-santos-a620011b9
+Roniely Pinheiro 📧 roniely_pinheiro@hotmail.com 🔗 (https://www.linkedin.com/in/roniely-pinheiro-6b1544178/)
 Rafael Maciel 📧 rafaelmn934@gmail.com 🔗 (https://github.com/Rafaelmacie)
