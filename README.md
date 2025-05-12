@@ -20,5 +20,6 @@ Bem-vindo ao repositório do nosso projeto frontend! 🚀 Este projeto foi desen
 
 ## 📝 Autores
 Lucas Santos 📧 lucasdsantos2201@gmail.com 🔗 (https://www.linkedin.com/in/lucas-santos-a620011b9/)
+Roniely Pinheiro 📧 roniely_pinheiro@hotmail.com 🔗 (https://www.linkedin.com/in/roniely-pinheiro-6b1544178/)
 
 
