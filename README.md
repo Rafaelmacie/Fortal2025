@@ -5,7 +5,7 @@ Bem-vindo ao repositório do nosso projeto frontend! 🚀 Este projeto foi desen
 ## 🎨 Tecnologias Utilizadas
 - **HTML5** 🏗️ - Estrutura semântica e acessível
 - **CSS3** 🎨 - Estilização moderna e responsiva
-
+- **Git** 🔧 – Versionamento de código e colaboração em equipe
 
 ## 🔥 Recursos Implementados
 ✅ Layout responsivo  
@@ -18,8 +18,10 @@ Bem-vindo ao repositório do nosso projeto frontend! 🚀 Este projeto foi desen
    git clone https://github.com/lucasdaniel2201/Fortal2025.git
 2. Abra o arquivo index.html no navegador.
 
+3. O projeto também pode ser acessado através deste link: https://lucasdaniel2201.github.io/Fortal2025/
+
 ## 📝 Autores
-Lucas Santos 📧 lucasdsantos2201@gmail.com 🔗 (https://www.linkedin.com/in/lucas-santos-a620011b9/)
-Roniely Pinheiro 📧 roniely_pinheiro@hotmail.com 🔗 (https://www.linkedin.com/in/roniely-pinheiro-6b1544178/)
-
-
+Lucas Santos 📧 lucasdsantos2201@gmail.com 🔗 (https://www.linkedin.com/in/lucas-santos-a620011b9/)<br>
+Roniely Pinheiro 📧 roniely_pinheiro@hotmail.com 🔗 (https://www.linkedin.com/in/roniely-pinheiro-6b1544178/)<br>
+Rafael Maciel 📧 rafaelmn934@gmail.com 🔗 (https://github.com/Rafaelmacie/)<br>
+Keven Gonçalves 📧 kevengoncalves211@gmail.com 🔗 (https://www.linkedin.com/in/keven-gonçalves-5756a4245/)
