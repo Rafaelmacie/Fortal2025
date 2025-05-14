@@ -17,7 +17,7 @@ body {
     background-image: url("./images/fundo.png");
     backdrop-filter: blur(10px);
     background-size: cover;
-    back-position: center;
+    background-position: center;
     background-repeat: no-repeat;
 }
 main {
