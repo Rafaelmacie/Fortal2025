@@ -219,9 +219,6 @@ nav {
 }
 
 
-
-
-
 footer {
     margin-top: 10%;
     background-color: #303030;
@@ -232,15 +229,15 @@ footer {
   
 .footer-container {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     width: 98vw;
-    min-height: 200px;
+    min-height: 150px;
 }
   
 .footer-logo img {
-    width: 15vw;
+    width: 10vw;
     margin-bottom: 20px;
 }
   
@@ -274,4 +271,17 @@ footer {
     text-align: center;
     font-size: 14px;
 }
-  
+
+@media screen and (max-width: 650px) {
+    .footer-logo img {
+        display: none;
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 98vw;
+        min-height: 150px;
+    }
+  }
