@@ -104,8 +104,7 @@ nav {
     flex: 1;
     background-color: #ffffff;
     color: #ffffff;
-    width: 60vw;
-    max-width: 600px;
+    width: 80vw;
     min-width: 350px;
     border-radius:10px;
     box-shadow: 1px 1px 1px 1px rgb(190, 190, 190);
@@ -159,12 +158,13 @@ nav {
 
 #register-form input[type="submit"]{
     background-color: transparent;
-    color: #000000;
+    color: #FFF;
     border: 1px solid #aaa;
     font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
     transition: 0.4s;
+    background-color:#d9a0ff;
 
 }
 
